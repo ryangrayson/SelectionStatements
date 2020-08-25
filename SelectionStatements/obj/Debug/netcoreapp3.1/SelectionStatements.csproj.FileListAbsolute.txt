@@ -1,0 +1,11 @@
+/Users/ryangrayson/Repos/SelectionStatements/SelectionStatements/bin/Debug/netcoreapp3.1/SelectionStatements.deps.json
+/Users/ryangrayson/Repos/SelectionStatements/SelectionStatements/bin/Debug/netcoreapp3.1/SelectionStatements.runtimeconfig.json
+/Users/ryangrayson/Repos/SelectionStatements/SelectionStatements/bin/Debug/netcoreapp3.1/SelectionStatements.runtimeconfig.dev.json
+/Users/ryangrayson/Repos/SelectionStatements/SelectionStatements/bin/Debug/netcoreapp3.1/SelectionStatements.dll
+/Users/ryangrayson/Repos/SelectionStatements/SelectionStatements/bin/Debug/netcoreapp3.1/SelectionStatements.pdb
+/Users/ryangrayson/Repos/SelectionStatements/SelectionStatements/obj/Debug/netcoreapp3.1/SelectionStatements.AssemblyInfoInputs.cache
+/Users/ryangrayson/Repos/SelectionStatements/SelectionStatements/obj/Debug/netcoreapp3.1/SelectionStatements.AssemblyInfo.cs
+/Users/ryangrayson/Repos/SelectionStatements/SelectionStatements/obj/Debug/netcoreapp3.1/SelectionStatements.csproj.CoreCompileInputs.cache
+/Users/ryangrayson/Repos/SelectionStatements/SelectionStatements/obj/Debug/netcoreapp3.1/SelectionStatements.dll
+/Users/ryangrayson/Repos/SelectionStatements/SelectionStatements/obj/Debug/netcoreapp3.1/SelectionStatements.pdb
+/Users/ryangrayson/Repos/SelectionStatements/SelectionStatements/obj/Debug/netcoreapp3.1/SelectionStatements.genruntimeconfig.cache
